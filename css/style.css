@@ -187,6 +187,11 @@ border-radius: 60px;
 .clients img {
   height: 80px;
   margin: 5px;
+  height: 92px;
+margin: 5px;
+padding: 22px;
+border-radius: 122px;
+width: 102px;
 }
 .client-item {
   padding: 34px;
@@ -242,14 +247,14 @@ footer {
   font-size: 41px;
   margin-top: 170px;
   cursor: pointer;
-  margin-top: 32vh;
+  margin-top: 22vh;
 }
 .h-center:hover{
 text-decoration: underline;
 color: red;
 }
 .submit{
-  margin-left: 288px;
+  margin-left: 205px;
   margin-top: 33px;
   padding: 12px 28px;
   font-size: 18px;
